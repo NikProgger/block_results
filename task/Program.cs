@@ -1,0 +1,1 @@
+﻿string[] strings = { "hello", "2", "world", ":-)",}; 
